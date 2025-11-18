@@ -1,8 +1,8 @@
 # Hi there, I'm Liya! 👋
 
-<img src="banner.gif" width="100%" />
+<img src="./Banner.gif" width="100%" />
 
-I'm a final-year Computer Science & Engineering (CSE) student at Independent University, Bangladesh, with a passion for blending tech innovation with creative design. As an aspiring software engineer, I love building user-friendly full-stack apps using MERN stacks, while exploring AI and machine learning to solve real-world problems—like empowering entrepreneurs or promoting eco-friendly initiatives. Currently, I'm gearing up for internships. Let's connect and create something amazing together! 🌱✨
+I'm a final-year Computer Science & Engineering (CSE) student at Independent University, Bangladesh, with a passion for blending tech innovation with creative design. As an aspiring software engineer, I love building user-friendly full-stack apps using MERN stacks, while exploring AI and machine learning to solve real-world problems like empowering entrepreneurs or promoting eco-friendly initiatives. Currently, I'm gearing up for internships. Let's connect and create something amazing together! 🌱✨
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Balancing+code%2C+cats%2C+and+houseplants...;Turning+ideas+into+impactful+apps!;Eager+to+collaborate+%26+learn!;Welcome+to+my+GitHub+journey+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -73,47 +73,14 @@ Life's too short not to sprinkle in some joy—here's a peek into my world:
 - Obsessed with collecting **rare houseplants**—my green oasis grows weekly! 🌿  
 - Binge-watcher of **Korean survival & disaster movies**—nothing beats that edge-of-your-seat thrill with a cozy blanket. 🍿  
 
-*Fun reminder: Every great code starts with a deep breath and a curious mind. You've got this! 💕*
+## Let's Connect :handshake:
 
-## 🔗 Let's Connect!
-I'm always up for chats about tech, design, cats, or your next big idea. Reach out!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kazifabihaliya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:kazifabihaliya@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/KaziFabihaLiya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.KaziFabihaLiya }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+<a href="https://www.linkedin.com/in/kazifabihaliya/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://https://www.kaggle.com/kazifabihaliya/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+|--|--|
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaziFabihaLiya&show_icons=true&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaziFabihaLiya&layout=compact&theme=radical&hide_border=true)
-
-### Visitors Counter
-![Visitors](https://visit-counter.glitch.me/KaziFabihaLiya.svg)
-
-### Now Listening... 🎵
-<!-- Replace with your Spotify ID for the widget -->
-[![Spotify](https://studymate.vercel.app/api/spotify?background=1&bar_color=00D4AA&bar_color_cover=false)](https://open.spotify.com/user/313njehxtupzko2lwpft7xuaqlry?si=67b48befaac146a0)
 
 ---
 
