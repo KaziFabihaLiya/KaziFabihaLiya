@@ -1,5 +1,7 @@
 # Hi there, I'm Liya! 👋
 
+<img src="banner.gif" width="100%" />
+
 I'm a final-year Computer Science & Engineering (CSE) student at Independent University, Bangladesh, with a passion for blending tech innovation with creative design. As an aspiring software engineer, I love building user-friendly full-stack apps using MERN stacks, while exploring AI and machine learning to solve real-world problems—like empowering entrepreneurs or promoting eco-friendly initiatives. Currently, I'm gearing up for internships. Let's connect and create something amazing together! 🌱✨
 
 <p align="center">
