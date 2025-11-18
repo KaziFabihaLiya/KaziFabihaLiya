@@ -2,7 +2,18 @@
 
 <img src="./Banner.gif" width="100%" />
 
+## About Me
 I'm a final-year Computer Science & Engineering (CSE) student at Independent University, Bangladesh, with a passion for blending tech innovation with creative design. As an aspiring software engineer, I love building user-friendly full-stack apps using MERN stacks, while exploring AI and machine learning to solve real-world problems like empowering entrepreneurs or promoting eco-friendly initiatives. Currently, I'm gearing up for internships. Let's connect and create something amazing together! 🌱✨
+
+## 🌱 Current Activities
+
+- 🔭 I’m currently learning **Web Development & Video Editing**
+- 🎨 Rebuilding my **Graphic Design Portfolio** (Canva + Illustrator)
+- 🧠 Exploring the basics of **Machine Learning & AI**
+- 💬 Improving my English speaking skills (C1-level **IELTS preparation**)
+- 💼 Preparing for upcoming **internship opportunities**
+- 🧪 Practicing Node JS & Express fundamentals through projects
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD32C&center=true&vCenter=true&width=435&lines=..Balancing+code+cats+and+houseplants...;Turning+ideas+into+impactful+apps!;Eager+to+collaborate+%26+learn!;Welcome+to+my+GitHub+journey+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -29,7 +40,7 @@ Here are some of my hands-on creations full-stack wonders.
   
   ![GreenTree](https://i.ibb.co.com/bSRk28L/Screenshot-2025-11-19-001608.png)
 
-### Research Highlights
+### 📝 Research Highlights
 - **SproutSwap: Leveraging Web Technologies to Promote Urban Gardening and Eco-Entrepreneurship**  
   Published in IEEE QPAIN 2025 (First Author). A web platform fostering green communities—[Live Link](https://ieeexplore.ieee.org/document/11172090/).  
 - **UddoktaAI: Empowering First-Time Entrepreneurs with Rule-Based & AI-Enhanced Business Advisory**  
@@ -48,7 +59,7 @@ I thrive on turning ideas into scalable, beautiful solutions. Here's what powers
 | **Design**        | Canva , Adobe Illustrator, AOS Animations |
 | **Interests**     | Machine Learning, AI (Beginner) |
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,py,nodejs,mongodb,css,tailwind,discord,firebase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,py,nodejs,react,express,git,mongodb,css,tailwind,discord,firebase,vercel,netlify,ai&theme=light)](https://skillicons.dev)
 
 
 ## 📚 Education
