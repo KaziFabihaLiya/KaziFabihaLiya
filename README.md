@@ -17,7 +17,7 @@ Here are some of my hands-on creations—full-stack wonders.
 - **[WarmPaws: Winter Pet Care Booking Platform](https://warmpaws-suzipoo.netlify.app/)**  
   End-to-end booking system for pet services with Firebase auth, responsive UI, notifications, and fun animations. Scoped from user flows to deployment—perfect for cozy winter vibes!  
   *Tech: React, Tailwind CSS, Firebase, AOS, react-spring*  
-  ![WarmPaws](https://img.shields.io/badge/WarmPaws-Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
+  ![WarmPaws](https://i.ibb.co.com/QvrrQhJH/warmpaws.png)
 
 - **[Green Tree Plantation Website](https://green-earthz.netlify.app/)**  
   A responsive campaign site to inspire tree-planting and sustainability. Clean design with interactive elements to rally the community.  
@@ -29,8 +29,6 @@ Here are some of my hands-on creations—full-stack wonders.
   Published in IEEE QPAIN 2025 (First Author). A web platform fostering green communities—[Live Link](https://ieeexplore.ieee.org/document/11172090/).  
 - **UddoktaAI: Empowering First-Time Entrepreneurs with Rule-Based & AI-Enhanced Business Advisory**  
   Accepted & presented at ICEBTM 2025 (First Author). 
-
-*Note: Live links are placeholders—drop me a message if you'd like the real ones or to collaborate on updates! 🚀*
 
 ## 🛠️ Tech Stack & Skills
 I thrive on turning ideas into scalable, beautiful solutions. Here's what powers my projects:
@@ -56,7 +54,7 @@ I thrive on turning ideas into scalable, beautiful solutions. Here's what powers
 - **B.Sc. in Computer Science & Engineering**  
   *Independent University, Bangladesh (IUB), Dhaka*  
   Expected Graduation: April 2026 | GPA: 3.35/4.00  
-  *Fueling my love for code and creativity—one algorithm at a time. 💻*
+  *Fueling my love for code and creativity one algorithm at a time. 💻*
 
 ## 🎓 Certifications (2025)
 - AI+ Prompt Engineer Level 1™ (AI CERTS™)  
