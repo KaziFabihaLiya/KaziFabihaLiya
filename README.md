@@ -1,29 +1,32 @@
-# Hi there, I'm Liya! 👋
+# Hey, This is Kazi Fabiha Liya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
 <img src="./Banner.gif" width="100%" />
 
 I'm a final-year Computer Science & Engineering (CSE) student at Independent University, Bangladesh, with a passion for blending tech innovation with creative design. As an aspiring software engineer, I love building user-friendly full-stack apps using MERN stacks, while exploring AI and machine learning to solve real-world problems like empowering entrepreneurs or promoting eco-friendly initiatives. Currently, I'm gearing up for internships. Let's connect and create something amazing together! 🌱✨
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Balancing+code%2C+cats%2C+and+houseplants...;Turning+ideas+into+impactful+apps!;Eager+to+collaborate+%26+learn!;Welcome+to+my+GitHub+journey+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD32C&center=true&vCenter=true&width=435&lines=..Balancing+code+cats+and+houseplants...;Turning+ideas+into+impactful+apps!;Eager+to+collaborate+%26+learn!;Welcome+to+my+GitHub+journey+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ## 🌟 Featured Projects
-Here are some of my hands-on creations—full-stack wonders. 
+Here are some of my hands-on creations full-stack wonders. 
 
 - **[StudyMate: Find Your Perfect Study Partner](https://studymate-auth-firebase.web.app/)**  
   A collaborative MERN app for students to connect based on subjects and experience. Features CRUD operations, search/sort filters, partner requests with counters, protected routes, dark/light mode toggle, and smooth Axios data fetching. Deployed on Firebase & Vercel.  
-  *Tech: React, Node.js, Express, MongoDB, Tailwind CSS*  
+  *Tech: React, Node.js, Express, MongoDB, Tailwind CSS*
+  
   ![StudyMate](https://i.ibb.co.com/jvmTxp3P/Screenshot-2025-11-19-001324.png)
 
 - **[WarmPaws: Winter Pet Care Booking Platform](https://warmpaws-suzipoo.netlify.app/)**  
   End-to-end booking system for pet services with Firebase auth, responsive UI, notifications, and fun animations. Scoped from user flows to deployment—perfect for cozy winter vibes!  
-  *Tech: React, Tailwind CSS, Firebase, AOS, react-spring*  
+  *Tech: React, Tailwind CSS, Firebase, AOS, react-spring*
+  
   ![WarmPaws](https://i.ibb.co.com/QvrrQhJH/warmpaws.png)
 
 - **[Green Tree Plantation Website](https://green-earthz.netlify.app/)**  
   A responsive campaign site to inspire tree-planting and sustainability. Clean design with interactive elements to rally the community.  
-  *Tech: HTML, JavaScript, Tailwind CSS, DaisyUI*  
+  *Tech: HTML, JavaScript, Tailwind CSS, DaisyUI*
+  
   ![GreenTree](https://i.ibb.co.com/bSRk28L/Screenshot-2025-11-19-001608.png)
 
 ### Research Highlights
@@ -68,10 +71,10 @@ I thrive on turning ideas into scalable, beautiful solutions. Here's what powers
 ![Certifications](https://img.shields.io/badge/Certified-2025-brightgreen?style=for-the-badge)
 
 ## 🐱 Fun Facts About Me
-Life's too short not to sprinkle in some joy—here's a peek into my world:  
+Life's too short not to sprinkle in some joy here's a peek into my world:  
 - Home to **7 fluffy cats** who rule my heart (and keyboard) 🐾  
-- Obsessed with collecting **rare houseplants**—my green oasis grows weekly! 🌿  
-- Binge-watcher of **Korean survival & disaster movies**—nothing beats that edge-of-your-seat thrill with a cozy blanket. 🍿  
+- Obsessed with collecting **rare houseplants** my green oasis grows weekly! 🌿  
+- Binge-watcher of **Korean survival & disaster movies** nothing beats that edge-of-your-seat thrill with a cozy blanket. 🍿  
 
 ## Let's Connect :handshake:
 
