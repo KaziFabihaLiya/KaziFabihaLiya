@@ -1,34 +1,34 @@
 # Hi there, I'm Liya! 👋
 
-I'm a final-year Computer Science & Engineering (CSE) student at Independent University, Bangladesh, with a passion for blending tech innovation with creative design. As an aspiring software engineer, I love building user-friendly full-stack apps using MERN stacks, while exploring AI and machine learning to solve real-world problems—like empowering entrepreneurs or promoting eco-friendly initiatives. Currently, I'm gearing up for internships in fintech (fingers crossed for bKash!) and dreaming of scholarships abroad to dive deeper into motion graphics and animation. Let's connect and create something amazing together! 🌱✨
+I'm a final-year Computer Science & Engineering (CSE) student at Independent University, Bangladesh, with a passion for blending tech innovation with creative design. As an aspiring software engineer, I love building user-friendly full-stack apps using MERN stacks, while exploring AI and machine learning to solve real-world problems—like empowering entrepreneurs or promoting eco-friendly initiatives. Currently, I'm gearing up for internships. Let's connect and create something amazing together! 🌱✨
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Balancing+code%2C+cats%2C+and+houseplants...;Turning+ideas+into+impactful+apps!;Eager+to+collaborate+%26+learn!;Welcome+to+my+GitHub+journey+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ## 🌟 Featured Projects
-Here are some of my hands-on creations—full-stack wonders and research-driven innovations that I'm super proud of. (Pro tip: Check the live demos for the full magic!)
+Here are some of my hands-on creations—full-stack wonders. 
 
-- **[StudyMate: Find Your Perfect Study Partner](https://github.com/KaziFabihaLiya/studymate)**  
+- **[StudyMate: Find Your Perfect Study Partner](https://studymate-auth-firebase.web.app/)**  
   A collaborative MERN app for students to connect based on subjects and experience. Features CRUD operations, search/sort filters, partner requests with counters, protected routes, dark/light mode toggle, and smooth Axios data fetching. Deployed on Firebase & Vercel.  
   *Tech: React, Node.js, Express, MongoDB, Tailwind CSS*  
-  ![StudyMate](https://img.shields.io/badge/StudyMate-MERN-blue?style=for-the-badge&logo=react&logoColor=white)
+  ![StudyMate](https://i.ibb.co.com/jvmTxp3P/Screenshot-2025-11-19-001324.png)
 
-- **[WarmPaws: Winter Pet Care Booking Platform](https://github.com/KaziFabihaLiya/warmpaws)**  
+- **[WarmPaws: Winter Pet Care Booking Platform](https://warmpaws-suzipoo.netlify.app/)**  
   End-to-end booking system for pet services with Firebase auth, responsive UI, notifications, and fun animations. Scoped from user flows to deployment—perfect for cozy winter vibes!  
   *Tech: React, Tailwind CSS, Firebase, AOS, react-spring*  
   ![WarmPaws](https://img.shields.io/badge/WarmPaws-Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
 
-- **[Green Tree Plantation Website](https://github.com/KaziFabihaLiya/greentree)**  
+- **[Green Tree Plantation Website](https://green-earthz.netlify.app/)**  
   A responsive campaign site to inspire tree-planting and sustainability. Clean design with interactive elements to rally the community.  
   *Tech: HTML, JavaScript, Tailwind CSS, DaisyUI*  
-  ![GreenTree](https://img.shields.io/badge/GreenTree-HTML5-green?style=for-the-badge&logo=html5&logoColor=white)
+  ![GreenTree](https://i.ibb.co.com/bSRk28L/Screenshot-2025-11-19-001608.png)
 
 ### Research Highlights
 - **SproutSwap: Leveraging Web Technologies to Promote Urban Gardening and Eco-Entrepreneurship**  
-  Published in IEEE QPAIN 2025 (First Author). A web platform fostering green communities—[Live Link](https://example.com/sproutswap).  
+  Published in IEEE QPAIN 2025 (First Author). A web platform fostering green communities—[Live Link](https://ieeexplore.ieee.org/document/11172090/).  
 - **UddoktaAI: Empowering First-Time Entrepreneurs with Rule-Based & AI-Enhanced Business Advisory**  
-  Accepted & presented at ICEBTM 2025 (First Author). AI tool for startup guidance—check it out [here](https://example.com/uddoktaai).
+  Accepted & presented at ICEBTM 2025 (First Author). 
 
 *Note: Live links are placeholders—drop me a message if you'd like the real ones or to collaborate on updates! 🚀*
 
@@ -42,8 +42,8 @@ I thrive on turning ideas into scalable, beautiful solutions. Here's what powers
 | **Backend**       | Node.js, Express                            |
 | **Databases**     | MongoDB, Firebase                           |
 | **Tools**         | Git, Netlify, Vercel, Axios, Jupyter Notebooks |
-| **Design**        | Canva (Expert), Adobe Illustrator, AOS Animations |
-| **Interests**     | Machine Learning, AI (Beginner), Motion Graphics |
+| **Design**        | Canva , Adobe Illustrator, AOS Animations |
+| **Interests**     | Machine Learning, AI (Beginner) |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,21 +57,6 @@ I thrive on turning ideas into scalable, beautiful solutions. Here's what powers
   *Independent University, Bangladesh (IUB), Dhaka*  
   Expected Graduation: April 2026 | GPA: 3.35/4.00  
   *Fueling my love for code and creativity—one algorithm at a time. 💻*
-
-## 💼 Experience & Leadership
-I'm all about teamwork and making things happen with heart. Here's where I've led and learned:
-
-- **Operational Team Lead, Glory Girls Tech Fest 1.0 (ICT Olympiad Bangladesh)**  
-  *Sep–Oct 2025*  
-  Led ops for 300+ participants: event scheduling, volunteer coordination (30+ roles), logistics magic, and real-time problem-solving—boosted efficiency by 30%! 🎉
-
-- **Volunteer, IEEE CS – IUB Student Branch (AI Innovation Talent Hunt 2025)**  
-  *Sep 2025–Present*  
-  Booth management and outreach—sparked 5% more student participation in innovation fun.
-
-- **Volunteer, Career Summit 2025 (Youth Skill Development Institute Trust)**  
-  *Sep 2025*  
-  Boosted registrations by 5% for 400+ attendees and snagged the **Best Volunteer Award**—teamwork makes the dream work! 🏆
 
 ## 🎓 Certifications (2025)
 - AI+ Prompt Engineer Level 1™ (AI CERTS™)  
@@ -108,9 +93,9 @@ I'm always up for chats about tech, design, cats, or your next big idea. Reach o
 
 ### Now Listening... 🎵
 <!-- Replace with your Spotify ID for the widget -->
-[![Spotify](https://studymate.vercel.app/api/spotify?background=1&bar_color=00D4AA&bar_color_cover=false)](https://open.spotify.com/user/your-spotify-id)
+[![Spotify](https://studymate.vercel.app/api/spotify?background=1&bar_color=00D4AA&bar_color_cover=false)](https://open.spotify.com/user/313njehxtupzko2lwpft7xuaqlry?si=67b48befaac146a0)
 
 ---
 
-*Thanks for stopping by—your visit just made my day brighter! Let's build, learn, and grow together. 🌟 Made with ❤️ using Markdown.*  
-*Last updated: November 2025*
+*Thanks for stopping by your visit just made my day brighter! Have a nice day!*  
+
