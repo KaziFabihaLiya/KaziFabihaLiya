@@ -1,98 +1,154 @@
-# Hey, This is Kazi Fabiha Liya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+# Hey, I'm Kazi Fabiha Liya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
 <img src="./Banner.gif" width="100%" />
 
-## About Me
-I'm a final-year Computer Science & Engineering (CSE) student at Independent University, Bangladesh, with a passion for blending tech innovation with creative design. As an aspiring software engineer, I love building user-friendly full-stack apps using MERN stacks, while exploring AI and machine learning to solve real-world problems like empowering entrepreneurs or promoting eco-friendly initiatives. Currently, I'm gearing up for internships. Let's connect and create something amazing together! 🌱✨
-
-## 🌱 Current Activities
-
-- 🔭 I’m currently learning **Web Development & Video Editing**
-- 🎨 Rebuilding my **Graphic Design Portfolio** (Canva + Illustrator)
-- 🧠 Exploring the basics of **Machine Learning & AI**
-- 💬 Improving my English speaking skills (C1-level **IELTS preparation**)
-- 💼 Preparing for upcoming **internship opportunities**
-- 🧪 Practicing Node JS & Express fundamentals through projects
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD32C&center=true&vCenter=true&width=435&lines=..Balancing+code+cats+and+houseplants...;Turning+ideas+into+impactful+apps!;Eager+to+collaborate+%26+learn!;Welcome+to+my+GitHub+journey+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD32C&center=true&vCenter=true&width=500&lines=CSE+Graduate+%7C+Full-Stack+Developer;MERN+Stack+%7C+AI+%26+LLM+Integration;IEEE+Published+Researcher+%F0%9F%93%84;Building+real+things+that+actually+work!" alt="Typing SVG" />
 </p>
 
-## 🌟 Featured Projects
-Here are some of my hands-on creations full-stack wonders. 
-
-- **[StudyMate: Find Your Perfect Study Partner](https://studymate-auth-firebase.web.app/)**  
-  A collaborative MERN app for students to connect based on subjects and experience. Features CRUD operations, search/sort filters, partner requests with counters, protected routes, dark/light mode toggle, and smooth Axios data fetching. Deployed on Firebase & Vercel.  
-  *Tech: React, Node.js, Express, MongoDB, Tailwind CSS*
-  
-  ![StudyMate](https://i.ibb.co.com/jvmTxp3P/Screenshot-2025-11-19-001324.png)
-
-- **[WarmPaws: Winter Pet Care Booking Platform](https://warmpaws-suzipoo.netlify.app/)**  
-  End-to-end booking system for pet services with Firebase auth, responsive UI, notifications, and fun animations. Scoped from user flows to deployment—perfect for cozy winter vibes!  
-  *Tech: React, Tailwind CSS, Firebase, AOS, react-spring*
-  
-  ![WarmPaws](https://i.ibb.co.com/QvrrQhJH/warmpaws.png)
-
-- **[Green Tree Plantation Website](https://green-earthz.netlify.app/)**  
-  A responsive campaign site to inspire tree-planting and sustainability. Clean design with interactive elements to rally the community.  
-  *Tech: HTML, JavaScript, Tailwind CSS, DaisyUI*
-  
-  ![GreenTree](https://i.ibb.co.com/bSRk28L/Screenshot-2025-11-19-001608.png)
-
-### 📝 Research Highlights
-- **SproutSwap: Leveraging Web Technologies to Promote Urban Gardening and Eco-Entrepreneurship**  
-  Published in IEEE QPAIN 2025 (First Author). A web platform fostering green communities—[Live Link](https://ieeexplore.ieee.org/document/11172090/).  
-- **UddoktaAI: Empowering First-Time Entrepreneurs with Rule-Based & AI-Enhanced Business Advisory**  
-  Accepted & presented at ICEBTM 2025 (First Author). 
-
-## 🛠️ Tech Stack & Skills
-I thrive on turning ideas into scalable, beautiful solutions. Here's what powers my projects:
-
-| Category          | Tools & Frameworks                          |
-|-------------------|---------------------------------------------|
-| **Languages**     | Python, JavaScript                          |
-| **Frontend**      | React, HTML, CSS, Tailwind CSS, DaisyUI     |
-| **Backend**       | Node.js, Express                            |
-| **Databases**     | MongoDB, Firebase                           |
-| **Tools**         | Git, Netlify, Vercel, Axios, Jupyter Notebooks |
-| **Design**        | Canva , Adobe Illustrator, AOS Animations |
-| **Interests**     | Machine Learning, AI (Beginner) |
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,py,nodejs,react,express,git,mongodb,css,tailwind,discord,firebase,vercel,netlify,ai&theme=light)](https://skillicons.dev)
-
-
-## 📚 Education
-- **B.Sc. in Computer Science & Engineering**  
-  *Independent University, Bangladesh (IUB), Dhaka*  
-  Expected Graduation: April 2026 | GPA: 3.35/4.00  
-  *Fueling my love for code and creativity one algorithm at a time. 💻*
-
-## 🎓 Certifications (2025)
-- AI+ Prompt Engineer Level 1™ (AI CERTS™)  
-- Aspire Leaders Program (Aspire Institute/Harvard Faculty)  
-- CCNA v7: Introduction to Networks (Cisco)  
-- Professional Graphic Design (Creative IT Institute)  
-- Graphic Design (eShikhon.com, BASIS Certified)  
-
-![Certifications](https://img.shields.io/badge/Certified-2025-brightgreen?style=for-the-badge)
-
-## 🐱 Fun Facts About Me
-Life's too short not to sprinkle in some joy here's a peek into my world:  
-- Home to **7 fluffy cats** who rule my heart (and keyboard) 🐾  
-- Obsessed with collecting **rare houseplants** my green oasis grows weekly! 🌿  
-- Binge-watcher of **Korean survival & disaster movies** nothing beats that edge-of-your-seat thrill with a cozy blanket. 🍿  
-
-## Let's Connect :handshake:
-
-<a href="https://www.linkedin.com/in/kazifabihaliya/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://https://www.kaggle.com/kazifabihaliya/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
-|--|--|
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaziFabihaLiya&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaziFabihaLiya&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KaziFabihaLiya&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-*Thanks for stopping by your visit just made my day brighter! Have a nice day!*  
+## 👩‍💻 About Me
 
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+I'm a CSE graduate from **Independent University, Bangladesh**, currently interning at **BRAC's Technology Division**. I build full-stack web applications using the MERN stack, integrate AI/LLM pipelines into real products, and have published research at IEEE conferences as first author.
+
+I enjoy turning complex problems into clean, deployable software — from enterprise access management systems to AI-powered advisory platforms.
+
+- 🏢 Currently interning at **BRAC** (Technology Division, ERP Unit)
+- 🔭 Building production-grade apps with **React, Node.js, MongoDB**
+- 🤖 Integrating **LLMs, RAG pipelines, Cohere & Groq** into real projects
+- 📄 **3 research papers** published/presented at IEEE conferences
+- 🐱 Owned by **7 cats** and a growing houseplant collection 🌿
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 [Sentinel: Employee Access & Role Management System](https://sentinel-earms.netlify.app/)
+> Enterprise-grade ERP access governance platform built during my internship at BRAC.
+
+Features role-based dashboards for employees, managers & admins, multi-level approval workflows with SLA tracking, delegation, escalation, JWT auth, audit logging, and a **RAG-based AI chatbot** using Cohere embeddings + MongoDB Atlas vector search + Groq LLM fallback.
+
+`React` `Node.js` `Express` `MongoDB Atlas` `JWT` `Cohere` `Groq (LLaMA)` `RAG`
+
+---
+
+### 📚 [StudyMate: Find Your Perfect Study Partner](https://studymate-auth-firebase.web.app/)
+> A collaborative MERN app for students to connect based on subjects and experience.
+
+CRUD operations, search/sort filters, partner requests with counters, protected routes, dark/light mode, real-time UI updates. Deployed on Firebase & Vercel.
+
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Firebase`
+
+![StudyMate](./studyMate.png)
+
+---
+
+### 🐾 [WarmPaws: Winter Pet Care Booking Platform](https://warmpaws-suzipoo.netlify.app/)
+> End-to-end pet service booking with Firebase auth, responsive UI and smooth animations.
+
+`React` `Tailwind CSS` `Firebase` `AOS` `react-spring`
+
+![WarmPaws](./WarmPaws.png)
+
+---
+
+## 📝 Research
+
+| Year | Paper | Venue | Role |
+|------|-------|-------|------|
+| 2026 | Gamifying Cricket Coaching: An AI-Based Real-Time Training Platform for Young Players | ICEI 2026 | First Author |
+| 2025 | [SproutSwap: Leveraging Web Technologies to Promote Urban Gardening and Eco-Entrepreneurship](https://ieeexplore.ieee.org/document/11172090/) | IEEE QPAIN 2025 | First Author |
+| 2025 | Empowering First-Time Entrepreneurs with UddoktaAI: A Rule-Based and AI-Enhanced Business Advisory System | ICEBTM 2025 | First Author |
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|---|---|
+| **Languages** | Python, JavaScript |
+| **Frontend** | React, Next.js, HTML, CSS, Tailwind CSS |
+| **Backend** | Node.js, Express |
+| **Databases** | MongoDB, MongoDB Atlas Vector Search, Firebase |
+| **AI & LLM** | RAG, Cohere Embeddings, Groq (LLaMA), PyTorch, YOLOv8 |
+| **Auth & APIs** | JWT, REST APIs, Firebase Auth, Google OAuth |
+| **Tools** | Git, Postman, Vercel, Netlify, Jupyter Notebooks |
+| **Design** | Canva, Adobe Illustrator |
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,py,nodejs,react,express,git,mongodb,css,tailwind,firebase,vercel,netlify,nextjs&theme=light)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaziFabihaLiya&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziFabihaLiya&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KaziFabihaLiya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KaziFabihaLiya&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaziFabihaLiya&theme=tokyo-night&hide_border=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/KaziFabihaLiya/KaziFabihaLiya/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+**B.Sc. in Computer Science & Engineering**
+Independent University, Bangladesh | Graduated July 2026 | CGPA: 3.37/4.00
+
+**Certifications:**
+- 🤖 AI & Machine Learning Fundamentals — Grameenphone Academy (2026)
+- 💻 Web Development — Programming Hero (2026)
+- 🧠 AI+ Prompt Engineer Level 1™ — AI CERTS™ (2025)
+- 🎓 Aspire Leaders Program — Aspire Institute/Harvard Faculty (2025)
+- 🌐 CCNA v7: Introduction to Networks — Cisco (2024)
+
+---
+
+## 🐱 Fun Facts
+
+- Home to **7 fluffy cats** who rule my heart (and keyboard) 🐾
+- Obsessed with collecting **rare houseplants** — my green oasis grows weekly 🌿
+- Binge-watcher of **Korean survival & disaster movies** 🍿
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kazifabihaliya/">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/kazifabihaliya/">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/KaziFabihaLiya">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+</p>
+
+---
+
+*Thanks for stopping by ^^ your visit just made my day brighter! Have a nice day! 🌟*
