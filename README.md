@@ -37,6 +37,7 @@ Features role-based dashboards for employees, managers & admins, multi-level app
 
 `React` `Node.js` `Express` `MongoDB Atlas` `JWT` `Cohere` `Groq (LLaMA)` `RAG`
 
+![Sentinel](./LandingDashboard (1).png)
 ---
 
 ### 📚 [StudyMate: Find Your Perfect Study Partner](https://studymate-auth-firebase.web.app/)
